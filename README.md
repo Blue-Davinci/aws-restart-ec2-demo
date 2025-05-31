@@ -1,4 +1,4 @@
-# Project Title
+# AWS Demo for the Safari channel
 
 ## Table of Contents
 
@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This is a demo simple project for the aws restart safari channel
 
 ## Getting Started <a name = "getting_started"></a>
 
