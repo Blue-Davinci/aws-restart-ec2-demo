@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-This is a demo simple project for the aws restart safari channel
+This is a demo simple project for the aws restart safari channel designed to teach the basics of terraform.
 
 ## Getting Started <a name = "getting_started"></a>
 
